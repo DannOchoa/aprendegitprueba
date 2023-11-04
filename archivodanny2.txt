@@ -1,0 +1,2 @@
+este es mi segundo texto para el repositorio aprendegitprueba
+realizo primera modificacion de este archivo
