@@ -1,0 +1,3 @@
+este es el archivo numero 3 para el aprendizaje de git y github
+este es la primera modificacion para ver el uso del unstaged devolver archivos a su estapa anterior
+
