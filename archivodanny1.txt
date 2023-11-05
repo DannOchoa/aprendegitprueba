@@ -1,1 +1,3 @@
 este es mi primer texto para el repositorio aprendegitprueba
+segunda modificacion para ser subido a la ramab. crear dos versiones del archivo
+
