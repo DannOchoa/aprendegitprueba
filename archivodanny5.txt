@@ -1,3 +1,5 @@
 este archivo 5 tendra esta linea para merge antes de commit
 segunda linea para rama c para un commit cualquiera
 tercera linea para procesar
+este archivo 5 tendra esta linea para merge antes de commit
+segunda linea para rama c para merge antes de commit
