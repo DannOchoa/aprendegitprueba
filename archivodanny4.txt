@@ -1,1 +1,2 @@
 este es la primera linea que se realiza en la rama master
+segunda linea donde sera subido en la rama b
